@@ -9,49 +9,25 @@ const btn6 = document.getElementById('btn-6');
 
 
 btn1.addEventListener('click', function onClick(event) {
-    // 👇️ change background color
     caja.style.backgroundColor = '#e53e3e';
-
-    // 👇️ optionally change text color
-    // document.body.style.color = 'white';
 });
 
 btn2.addEventListener('click', function onClick(event) {
-    // 👇️ change background color
     caja.style.backgroundColor = '#dd6b20';
-
-    // 👇️ optionally change text color
-    // document.body.style.color = 'white';
 });
 
 btn3.addEventListener('click', function onClick(event) {
-    // 👇️ change background color
     caja.style.backgroundColor = '#faf089';
-
-    // 👇️ optionally change text color
-    // document.body.style.color = 'white';
 });
 
 btn4.addEventListener('click', function onClick(event) {
-    // 👇️ change background color
     caja.style.backgroundColor = '#48bb78';
-
-    // 👇️ optionally change text color
-    // document.body.style.color = 'white';
 });
 
 btn5.addEventListener('click', function onClick(event) {
-    // 👇️ change background color
     caja.style.backgroundColor = '#81e6d9';
-
-    // 👇️ optionally change text color
-    // document.body.style.color = 'white';
 });
 
 btn6.addEventListener('click', function onClick(event) {
-    // 👇️ change background color
     caja.style.backgroundColor = '#d53f8c';
-
-    // 👇️ optionally change text color
-    // document.body.style.color = 'white';
 });
